@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marketplace.Api", "Marketplace.Api\Marketplace.Api.csproj", "{B2F0D01F-77B7-4498-8B55-68F0E7CB6F67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marketplace.Application", "Marketplace.Application\Marketplace.Application.csproj", "{45EE6C64-CB50-4A46-8895-D09E8CECF5D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2F0D01F-77B7-4498-8B55-68F0E7CB6F67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2F0D01F-77B7-4498-8B55-68F0E7CB6F67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2F0D01F-77B7-4498-8B55-68F0E7CB6F67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2F0D01F-77B7-4498-8B55-68F0E7CB6F67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45EE6C64-CB50-4A46-8895-D09E8CECF5D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45EE6C64-CB50-4A46-8895-D09E8CECF5D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45EE6C64-CB50-4A46-8895-D09E8CECF5D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45EE6C64-CB50-4A46-8895-D09E8CECF5D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40769518-7AB4-4371-B536-2EFE1F024F90}
+	EndGlobalSection
+EndGlobal
